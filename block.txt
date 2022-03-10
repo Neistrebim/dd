@@ -1,5 +1,6 @@
-acs.vendorcert.mirconnect.ru 
-ds1.mirconnect.ru                           
-ds2.mirconnect.ru                           
-uat-ds1.mirconnect.ru                  
-uat-ds2.mirconnect.ru                   
+https://www.russianhighways.ru
+https://www.nornickel.com
+https://www.surgutneftegas.ru
+https://www.evraz.com
+https://www.nlmk.com
+https://www.metalloinvest.com
