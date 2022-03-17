@@ -1,8 +1,8 @@
-https://topcor.ru
-https://ria.ru
-https://lenta.ru
-https://kp.ru
-https://iz.ru
-https://www.gazeta.ru
-https://tass.ru
-https://rg.ru
+109.207.14.3:443
+109.207.14.3:80
+109.207.14.3:53
+87.226.162.78:25
+87.226.162.78:110
+87.226.162.78:443
+87.226.162.78:587
+87.226.162.78:995
